@@ -11,7 +11,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @EnableCustomConfig
 @EnableRyFeignClients
 @SpringBootApplication
-public class SpzxOrderApplication {
+public class    SpzxOrderApplication {
     public static void main(String[] args) {
         SpringApplication.run(SpzxOrderApplication.class, args);
         System.out.println("(♥◠‿◠)ﾉﾞ  系统模块启动成功   ლ(´ڡ`ლ)ﾞ  \n" +

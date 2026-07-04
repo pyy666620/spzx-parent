@@ -19,6 +19,7 @@
         <module>spzx-channel</module>
         <module>spzx-cart</module>
         <module>spzx-payment</module>
+        <module>spzx-aichat</module>
     </modules>
 
     <artifactId>spzx-modules</artifactId>

@@ -49,12 +49,6 @@
             <artifactId>spzx-common-security</artifactId>
         </dependency>
 
-<!--        &lt;!&ndash; 通用的HTTP客户端，后面用来调大模型 &ndash;&gt;-->
-<!--        <dependency>-->
-<!--            <groupId>org.apache.httpcomponents</groupId>-->
-<!--            <artifactId>httpclient</artifactId>-->
-<!--        </dependency>-->
-
         <!---->
         <dependency>
             <groupId>org.springframework.boot</groupId>
